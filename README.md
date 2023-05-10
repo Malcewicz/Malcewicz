@@ -13,7 +13,9 @@ Working on:
 - A not yet disclosed project in Flutter, designed in Figma
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,figma,php,git)](https://skillicons.dev)
-Certified Microsoft MTA Windows Server Administratior
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,figma,git,php)](https://skillicons.dev)
+
+Certified with Microsoft MTA Windows Server Administration Fundamentals
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcewicz&count_private=true&hide=issues&show_icons=true&theme=github_dark)
