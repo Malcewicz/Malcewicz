@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi! I'm Maciej
 
-<!--
-**Malcewicz/Malcewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning: 
+- Front-end web development in:
+  - Still learning HTML CSS and JavaScript (also trying out TypeScript) 
+  - React and Next.js
+- Flutter - I'm working on a still secret mobile application
+- UI Design 
 
-Here are some ideas to get you started:
+#### My skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,figma,git)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcewicz&count_private=true&hide=contribs,issues&show_icons=true&theme=github_dark)](https://github.com/malcewicz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malcewicz&layout=donut)](https://github.com/malcewicz/github-readme-stats)
