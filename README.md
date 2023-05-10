@@ -1,5 +1,5 @@
 ## Hi! 👋  I'm Maciej
-I'm an 18 year old polish computer science student, website manager for [LakeView Apartments](https://www.lakeviewprzewiez.pl)
+I'm an 18 year old polish computer science student, website manager for [LakeView Apartments](https://www.lakeviewprzewiez.pl)  
 Microsoft MTA Windows Server Administration Fundamentals certified
 
 **I’m currently learning:** 
