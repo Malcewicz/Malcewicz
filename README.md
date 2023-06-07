@@ -16,6 +16,3 @@ Microsoft MTA Windows Server Administration Fundamentals certified
 
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,dart,figma,php,mysql)](https://skillicons.dev)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcewicz&count_private=true&hide=contribs,issues&show_icons=true&theme=github_dark)
