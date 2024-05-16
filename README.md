@@ -1,17 +1,15 @@
 ## Hi! 👋  I'm Maciej
-I'm a 19 year old polish computer science student and website manager for [LakeView Apartments](https://www.lakeviewprzewiez.pl)  
-Microsoft MTA Windows Server Administration Fundamentals certified
+I'm a 19-year-old Polish computer science student and website manager for [LakeView Apartments](https://www.lakeviewprzewiez.pl)  
 
-**Check out my portfolio:** [bernatowicz.dev](https://bernatowicz.dev)  
+**Check out my portfolio:** [bernatowicz.dev](https://bernatowicz.dev) (It's a little outdated, I'm working on a new version now)
 
 **I’m currently learning:** 
-- Front-end web development in:
-  - HTML CSS and JavaScript
-  - React and Next.js 13 with TypeScript
-- Flutter
+- Project Management
+- Front-end web development in Next.js 14 with TypeScript
 - UI Design 
 
 **Currently working on:**
+- An updated version of my portfolio
 - A secret project in Flutter, designed in Figma
 
 ### My skills
