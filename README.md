@@ -9,7 +9,6 @@ I'm a 19-year-old Polish computer science student and website manager for [LakeV
 - UI Design 
 
 **Currently working on:**
-- An updated version of my portfolio
 - A secret project in Flutter, designed in Figma
 
 ### My skills
