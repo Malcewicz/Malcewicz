@@ -1,5 +1,5 @@
 ## Hi! 👋  I'm Maciej
-I'm a 19-year-old Polish graduate in Computer Science, currently studying Enterprise Management. I also manage the website for [LakeView Apartments](https://www.lakeviewprzewiez.pl)  
+I'm a 20-year-old Polish graduate in Computer Science, currently studying Enterprise Management. I also manage the website for [LakeView Apartments](https://www.lakeviewprzewiez.pl)  
 
 **Check out my new portfolio:** [bernatowicz.dev](https://bernatowicz.dev)
 
